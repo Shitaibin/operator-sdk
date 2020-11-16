@@ -454,6 +454,7 @@ The following guides build off the operator created in this example, adding adva
 Also see the [advanced topics][advanced_topics] doc for more use cases and under the hood details.
 
 
+[operator_install]: https://sdk.operatorframework.io/docs/building-operators/golang/installation/
 [go_tool]:https://golang.org/dl/
 [docker_tool]:https://docs.docker.com/install/
 [kubectl_tool]:https://kubernetes.io/docs/tasks/tools/install-kubectl/
